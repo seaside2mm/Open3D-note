@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Open3DV" targetName="Visualization" />
+      <config projectName="Open3DV" targetName="TestVisualizer" />
+      <config projectName="Open3DV" targetName="Core" />
+      <config projectName="Open3DV" targetName="glfw" />
+      <config projectName="Open3DV" targetName="EncodeShader" />
+      <config projectName="Open3DV" targetName="ShaderFileTarget" />
+      <config projectName="Open3DV" targetName="IO" />
+      <config projectName="Open3DV" targetName="TestPointCloud" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87ca31de-8db3-45cb-932f-cd06374db598" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1gPGR2WpQcQxpPfaQkLiWnw79j6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="CMake Application.TestPointCloud">
+    <configuration name="Core" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3DV" TARGET_NAME="Core" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncodeShader" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3DV" TARGET_NAME="EncodeShader" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3DV" RUN_TARGET_NAME="EncodeShader">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3DV" TARGET_NAME="IO" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShaderFileTarget" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3DV" TARGET_NAME="ShaderFileTarget" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPointCloud" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$USER_HOME$/Code/new3D/Open3D/examples/TestData/sphere.ply" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3DV" TARGET_NAME="TestPointCloud" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3DV" RUN_TARGET_NAME="TestPointCloud">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestVisualizer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3DV" TARGET_NAME="TestVisualizer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Open3DV" RUN_TARGET_NAME="TestVisualizer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Visualization" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3DV" TARGET_NAME="Visualization" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Open3DV" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Core" />
+      <item itemvalue="CMake Application.EncodeShader" />
+      <item itemvalue="CMake Application.IO" />
+      <item itemvalue="CMake Application.ShaderFileTarget" />
+      <item itemvalue="CMake Application.TestPointCloud" />
+      <item itemvalue="CMake Application.TestVisualizer" />
+      <item itemvalue="CMake Application.Visualization" />
+      <item itemvalue="CMake Application.glfw" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87ca31de-8db3-45cb-932f-cd06374db598" name="Default Changelist" comment="" />
+      <created>1598008801048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598008801048</updated>
+      <workItem from="1598008802152" duration="3135000" />
+      <workItem from="1598011979480" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="377" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598009316991">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state x="377" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog/49.23.1743.1097@49.23.1743.1097" timestamp="1598009316991" />
+    <state width="1455" height="296" key="GridCell.Tab.0.bottom" timestamp="1598011955580">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1455" height="296" key="GridCell.Tab.0.bottom/49.23.1743.1097@49.23.1743.1097" timestamp="1598011955580" />
+    <state width="1455" height="296" key="GridCell.Tab.0.center" timestamp="1598011955579">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1455" height="296" key="GridCell.Tab.0.center/49.23.1743.1097@49.23.1743.1097" timestamp="1598011955579" />
+    <state width="1455" height="296" key="GridCell.Tab.0.left" timestamp="1598011955579">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1455" height="296" key="GridCell.Tab.0.left/49.23.1743.1097@49.23.1743.1097" timestamp="1598011955579" />
+    <state width="1455" height="296" key="GridCell.Tab.0.right" timestamp="1598011955580">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1455" height="296" key="GridCell.Tab.0.right/49.23.1743.1097@49.23.1743.1097" timestamp="1598011955580" />
+    <state width="1455" height="282" key="GridCell.Tab.1.bottom" timestamp="1598011955575">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1455" height="282" key="GridCell.Tab.1.bottom/49.23.1743.1097@49.23.1743.1097" timestamp="1598011955575" />
+    <state width="1455" height="282" key="GridCell.Tab.1.center" timestamp="1598011955574">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1455" height="282" key="GridCell.Tab.1.center/49.23.1743.1097@49.23.1743.1097" timestamp="1598011955574" />
+    <state width="1455" height="282" key="GridCell.Tab.1.left" timestamp="1598011955574">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1455" height="282" key="GridCell.Tab.1.left/49.23.1743.1097@49.23.1743.1097" timestamp="1598011955574" />
+    <state width="1455" height="282" key="GridCell.Tab.1.right" timestamp="1598011955574">
+      <screen x="49" y="23" width="1743" height="1097" />
+    </state>
+    <state width="1455" height="282" key="GridCell.Tab.1.right/49.23.1743.1097@49.23.1743.1097" timestamp="1598011955574" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/Test/TestPointCloud.cpp</url>
+          <line>33</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
